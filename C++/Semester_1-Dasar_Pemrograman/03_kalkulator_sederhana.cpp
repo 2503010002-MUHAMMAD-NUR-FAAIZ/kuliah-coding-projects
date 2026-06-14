@@ -1,4 +1,8 @@
-/*Belajar Switch-Case dan Operator Matematika*/
+/* ===================================================================================
+💡 PROYEK 3: KALKULATOR MATEMATIKA SEDERHANA
+📚 Belajar: Tipe Data Float/Char, Percabangan Switch-Case, dan Kondisi Error Handling
+======================================================================================
+*/
 
 #include <iostream>
 using namespace std;

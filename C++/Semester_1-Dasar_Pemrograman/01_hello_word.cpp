@@ -1,4 +1,8 @@
-/*Belajar Kerangka dasar C++ dan Input/Output*/
+/* ================================================================
+💡 PROYEK 1: PROGRAM HELLO WORLD (PROGRAM PERTAMA)
+📚 Belajar: Kerangka Dasar C++, Input/Output Dasar (cout), dan Endl
+===================================================================
+*/
 
 #include <iostream>
 using namespace std;

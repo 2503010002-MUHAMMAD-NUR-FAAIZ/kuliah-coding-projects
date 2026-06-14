@@ -1,4 +1,8 @@
-/*Belajar Variabel, Input User, dan Percabangan If-Else*/
+/* ========================================================================================
+💡 PROYEK 2: PROGRAM CEK BILANGAN GANJIL ATAU GENAP
+📚 Belajar: Variabel Input (cin), Operator Aritmatika Modulus (%), dan Percabangan If-Else
+===========================================================================================
+*/
 
 #include <iostream>
 using namespace std;
