@@ -1,0 +1,29 @@
+# ======================
+# C++ / C IGNORE FILES
+# ======================
+# File hasil compile (Exutable)
+*.exe
+*.out
+*.app
+*.o
+*.obj
+
+# =====================
+# IDE & EDITOR FILES
+# =====================
+# Folder dan konfigurasi VS Code
+.vscode/
+*.sou
+*.sln
+
+#Intellij / CLion
+.idea/
+
+# ======================
+# OS GENERATED FILES
+# ======================
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
