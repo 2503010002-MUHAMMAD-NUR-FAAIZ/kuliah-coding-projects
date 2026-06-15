@@ -5,11 +5,9 @@ Repository ini berisi kumpulan tugas, praktikum, dan proyek pemrograman selama m
 ## 📂 Struktur Direktori
 
 ### 🔵 C++ (Roadmap Pembelajaran)
-- **`Semester_1-Dasar_Pemrograman/`** : Variabel, Tipe Data, Percabangan (If-Else), Perulangan (Loops), Array, dan Fungsi.
-- **`Semester_2-Struktur_Data/`** : Pointer, Struct, Linked List, Stack, Queue.
-- **`Semester_3-Pemrograman_Berorientasi_Objek/`** : Class, Object, Inheritance, Polymorphism.
-- **`Semester_Atas-Proyek_Lanjut/`** : Proyek akhir mata kuliah, Sistem Manajemen, dll.
-
+- **`01_Dasar_dan_Percabangan/`**: Variabel, Input/Output, Kondisi If-Else, dan Switch-Case.
+- **`02_Perulangan/`**: Logika Looping (While, Do-While, For).
+- **`03_Array/`**: Penyimpanan tipe data sejenis (Larik) dan manipulasi data berurutan.
 ### 🟡 Python (Segera Hadir)
 - *Akan diupdate seiring berjalannya mata kuliah terkait.*
 

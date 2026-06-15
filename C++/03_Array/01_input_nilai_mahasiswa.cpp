@@ -1,7 +1,11 @@
-/* ===============================================================
-💡 PROYEK 5: PROGRAM REKAP DAN HITUNG RATA-RATA NILAI KULIAH
-📚 Belajar: Array (Penyimpanan Banyak Data) dan Perulangan 'for'
-==================================================================
+/* ===============================================================================
+💡 PROYEK 1: PROGRAM REKAP DAN HITUNG RATA-RATA NILAI KULIAH
+📚 Belajar: Array 1 Dimensi dan Penggabungannya dengan Perulangan 'for'
+        
+    Mempelajari: Cara Mendeklarasikan Array, memasukkan data ke dalam laci Array
+                 satu per satu menggunakan index, dan membaca datanya untuk
+                 dihitung total serta rata-ratanya.
+===================================================================================
 */
 
 #include <iostream>
@@ -35,7 +39,6 @@ int main() {
     cout << "Nilai Rata-Rata Tugas  : " << rataRata << endl;
     cout << "=====================================" << endl;
 
-    // Evaluasi kelulusan sederhana menggunakan If-Else
     if (rataRata >= 70) {
         cout << "Status: SELAMAT ANDA LULUS DI MATA KULIAH INI!" << endl;
     } else {

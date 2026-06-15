@@ -1,5 +1,5 @@
 /* ==================================================================================
-💡 PROYEK 4: PROGRAM KASIR TOKO SEDERHANA
+💡 PROYEK 1: PROGRAM KASIR TOKO SEDERHANA
 📚 Belajar: Perulangan/Looping (do-while), Akumulasi Total Nilai, dan Logika Belanja
 =====================================================================================
 */
